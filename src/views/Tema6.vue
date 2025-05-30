@@ -146,7 +146,7 @@
               img.mb-3(src='@/assets/curso/Tema6/img07.png', alt='')
             .col-lg-12
               p Posterior al proceso mencionado se realiza el cierre de la venta en donde su objetivo principal es precisamente que el cliente realice la solicitud formal del producto o servicio. En esta parte del proceso el vendedor siempre debe actuar con actitud positiva demostrando que se ha llegado a un acuerdo, y concluirá mencionando los beneficios que el cliente está aceptando.
-
+              
 
 
 
