@@ -235,22 +235,198 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema 1',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
-      link: 'Link',
+      tema:
+        'Apropiación de conocimientos básicos dentro de un establecimiento de alojamiento.',
+      referencia:
+        'Grupo técnico de turismo de la Alianza del Pacifico. (2017). Terminología y vocabulario del sector hotelero en los países de la alianza del pacífico.',
+      tipo: 'PDF',
+      link:
+        'https://alianzapacifico.net/assets/gallery/Terminologia-y-Metodologia-para-la-Homologacion-Version-Final.pdf',
+    },
+    {
+      tema: 'Servicio al cliente.',
+      referencia:
+        'Cordón, S. R. (2009). Manual de etiqueta para uso en instituciones hoteleras. ',
+      tipo: 'PDF',
+      link: 'https://glifos.unis.edu.gt/digital/tesis/2009/24157.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Acomodación',
+      significado:
+        'Es la organización interna de la habitación en cuanto al tipo de camas de acuerdo a la capacidad de la habitación. ',
+    },
+    {
+      termino: '<i>Brochure</i>',
+      significado:
+        'Es un folleto impreso o un documento que presenta información sobre una empresa, producto o servicio. ',
+    },
+    {
+      termino: 'Categorías',
+      significado:
+        'En un establecimiento de alojamiento la categoría se mide por estrellas de acuerdo a los servicios que ofrece y el tamaño de la instalación. ',
+    },
+    {
+      termino: 'Conserjería',
+      significado:
+        'Área del hotel cuyas funciones son atender o coordinar, o ambos, apropiadamente los requerimientos de los huéspedes y visitantes, los cuales incluyen mensajes, equipajes, información turística o general, entre otras definidas por el establecimiento.  ',
+    },
+    {
+      termino: '<i>Coworking</i>',
+      significado: 'Es un espacio de trabajo compartido.',
+    },
+    {
+      termino: 'Desinfección',
+      significado:
+        'Proceso que elimina o reduce la concentración de microorganismos patógenos como virus y bacterias en superficies o en el agua.',
+    },
+    {
+      termino: 'Huésped',
+      significado:
+        'Persona que se aloja en un establecimiento de alojamiento y hospedaje, mediante contrato de hospedaje. ',
+    },
+    {
+      termino: 'Jacuzzi',
+      significado:
+        'Bañera para hidromasaje compuesta por un sistema de chorros de agua que produce remolinos y burbujeo. ',
+    },
+    {
+      termino: 'Percepción',
+      significado:
+        'Proceso psicológico que consiste en recibir, interpretar y comprender las señales que provienen del exterior. ',
+    },
+    {
+      termino: 'Pernoctar',
+      significado:
+        'Quedarse a dormir en otro lugar fuera de su propio domicilio. ',
+    },
+    {
+      termino: '<i>Pet friendly</i>',
+      significado: 'Se permite la entrada de mascotas. ',
+    },
+    {
+      termino: 'Proxémica',
+      significado:
+        'Parte de la semiótica. Ciencia que estudia el sistema de signos empleado en la comunicación. Dedicada al estudio de la organización del espacio en la comunicación. ',
+    },
+    {
+      termino: '<i>Room service</i>',
+      significado: 'Servicio de alimentación a la habitación. ',
+    },
+    {
+      termino: 'Sarcasmo',
+      significado:
+        'Ironía mordaz y cruel con que se ofende o maltrata a alguien o algo. ',
+    },
+    {
+      termino: 'Sauna',
+      significado:
+        'Baño de vapor en recinto de madera a muy alta temperatura, que produce una rápida y abundante sudoración y que se toma con fines higiénicos y terapéuticos. ',
+    },
+    {
+      termino: 'Senderismo',
+      significado:
+        'Es una caminata que se realiza es espacios naturales y en terrenos irregulares. ',
+    },
+    {
+      termino: 'Servicio de botones',
+      significado:
+        'Es un servicio al cliente que se ofrece en un establecimiento de alojamiento, donde se le ayuda al huésped con el traslado de las maletas desde la recepción hasta la habitación o viceversa. ',
+    },
+    {
+      termino: '<i>Spa</i>',
+      significado:
+        'Infraestructura habilitada para aprovechar las propiedades de elementos naturales reconocidos como beneficiosas para la salud tales como emanaciones de agua mineral o volcánica, las características del mar, las condiciones climáticas. En ocasiones es utilizado complementariamente en tratamientos de salud. ',
+    },
+    {
+      termino: 'Turco',
+      significado:
+        'Es un baño a vapor en ambiente húmedo con temperaturas bajas. ',
+    },
+    {
+      termino: 'Utilería',
+      significado: 'Utensilios destinados a un uso manual. ',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Ayala, A., Cortés, A., Cruz, A., Ramírez, D., Rodríguez, A., Rodríguez, C., & Soler, C. (2011). Código ético de los prestadores de servicios de alojamiento inscritos en el registro nacional de turismo, su texto y el proceso de construcción a través de actos de habla. Anuario Turismo y Sociedad, (12), 275-283. ',
       link: '',
+    },
+    {
+      referencia:
+        'Barajas, A. (2023). Hospedar o contratar extranjeros tiene sus normas. Vivir En el Poblado. ',
+      link:
+        'https://vivirenelpoblado.com/hospedar-o-contratar-extranjeros-tiene-sus-normas/   ',
+    },
+    {
+      referencia: 'Ceupe. (2024). Atención al cliente en la empresa hotelera. ',
+      link:
+        'https://www.ceupe.com/blog/atencion-al-cliente-en-la-empresa-hotelera.html',
+    },
+    {
+      referencia:
+        'Cloudbeds. (2024). Cómo la analítica de datos optimiza las operaciones hoteleras. Cloudbeds. ',
+      link:
+        'https://www.cloudbeds.com/es/articulos/analisis-datos-hotel/#:~:text=Sistema%20de%20punto%20de%20venta,y%20los%20m%C3%A9todos%20de%20pago.  ',
+    },
+    {
+      referencia:
+        'Cordón, S. R. (2009). Manual de etiqueta para uso en instituciones hoteleras. ',
+      link: '',
+    },
+    {
+      referencia:
+        'Elphick, D. (2024). Canales de Distribución Para Hoteles: Dominar los Conceptos y Llevar a Cabo las Mejores Prácticas. SiteMinder',
+      link:
+        'https://www.siteminder.com/es/r/canales-distribucion-hoteles/#ejemplos-de-canales-de-distribuci-n-para-hoteles  ',
+    },
+    {
+      referencia:
+        'Instituto Colombiano de Normas Técnicas y Certificación. (2009). Clasificación de establecimientos de alojamiento y hospedaje. Categorización por estrellas de hoteles, requisitos normativos (NTSH 006). ',
+      link:
+        'https://www.mincit.gov.co/getattachment/minturismo/calidad-y-desarrollo-sostenible/calidad-turistica/normas-tecnicas-sectoriales/nts-alojamiento-y-hospedaje-1/norma-tecnica-sectorial-colombiana-ntsh-006-i-actu/norma-tecnica-sectorial-colombiana-ntsh-006-i.pdf.aspx',
+    },
+    {
+      referencia:
+        'Jacidi. (2024). Conociendo los Tipos de Clientes en un Hotel. eRoom Suite: Sistema Omnicanal de Comunicación Hotelera. ',
+      link: 'https://www.eroomsuite.com/tipos-clientes-hotel/  ',
+    },
+    {
+      referencia:
+        'Ley 1558 del 2012. Por la cual se modifica la Ley 300 de 1996. Ley General de Turismo, la Ley 1101 de 2006 y se dictan otras disposiciones. Julio 10 de 2012.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ley 1581 de 2012. Por la cual se dictan las disposiciones generales para protección de datos personales.  Octubre 17 de 2012.',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas. (1999). Código Ético Mundial para el Turismo. ',
+      link: 'https://www.unwto.org/es/codigo-etico-mundial-para-el-turismo ',
+    },
+    {
+      referencia: 'Porto, J. P., & Merino, M. (2022). Definición de hotel. ',
+      link: 'https://definicion.de/hotel/#google_vignette ',
+    },
+    {
+      referencia: 'Soho Apps. (2024). Clasificación de un hotel. Soho Apps. ',
+      link: 'https://sohoapps.co/clasificacion-de-un-hotel/ ',
+    },
+    {
+      referencia:
+        'Zendesk. (13 marzo de 2023). 12 tipos de clientes en hotelería y cómo ofrecerles el mejor servicio. Blog de Zendesk',
+      link: 'https://www.zendesk.com.mx/blog/tipos-de-clientes-en-hoteleria/ ',
+    },
+    {
+      referencia:
+        'Zendesk. (s.f.) Tipos de servicio al cliente: ¿cómo brindar a mejor atención?. Blog de Zendesk',
+      link:
+        'https://www.zendesk.com.mx/blog/cuales-son-tipos-de-servicio-al-cliente/ ',
     },
   ],
   creditos: [
@@ -273,9 +449,9 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: ' ',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Aurora Milena Parada Ortega ',
+          cargo: 'Experta temática.',
+          centro: 'Centro Agroturístico - Regional Santander.',
         },
       ],
     },
@@ -283,12 +459,12 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Yazmin Rocio Figueroa Pacheco',
           cargo: 'Diseñador de contenidos',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Leonardo Castellanos Rodríguez',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
@@ -303,7 +479,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
+          nombre: 'Erika Daniela Manrique Rueda',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
