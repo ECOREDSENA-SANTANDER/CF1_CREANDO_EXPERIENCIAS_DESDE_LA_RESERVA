@@ -47,6 +47,9 @@ figcaption
 .bg7
   background-color: #E7C96E
   border-radius: 20px
+.bg14
+  background-color: #E7C96E
+
 .bg8
   background-color: #FBD7A8
 .bg13
@@ -58,6 +61,8 @@ figcaption
 .bg10
   background-color: #fff
   border-radius: 10px
+.bg16
+  background-color: #DAF2E4
 .escala-grises .tabs-b__tab 
   &.tabs-b__tab--active .tabs-b__tab__icon
     filter: grayscale(0)
@@ -130,7 +135,13 @@ figcaption
   left: -15px
   top: 8px
   width: fit-content
-
+.w-card-text2
+  position: relative
+  padding-left: 27px
+  padding-right: 27px
+  left: 25px
+  top: 8px
+  width: fit-content
 .imgtam
   height: 434px
 .imgtam2
@@ -188,3 +199,49 @@ figcaption
     margin-inline: -1rem
     margin-right: -1rem
     margin-left: -1rem
+
+.cambiartarjeta
+  background-image: url('../assets/curso/Tema5/01.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  border-radius: 20px
+  color: black
+  &:hover
+    background-image: url('../assets/curso/Tema5/02.png')
+    color: white
+.icono-cambia1:hover 
+  filter: hue-rotate(250deg)
+
+.fondoslyder
+  background-image: url('../assets/curso/Tema5/fondo1.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center
+  @media screen and (max-width: 767px)
+    background-size: cover 
+    border-radius: 20px 
+.fondoblanco
+  background-color: #fff
+  border-radius: 20px
+.linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right 
+  background-color: #104880
+.fa-angle-left 
+  --fa: "\f104"
+  color: #fff
+.fa-angle-right 
+  --fa: "\f105"
+  color: #fff
+.pasos-b__header__item--before .pasos-b__header__item__dot 
+  border-color: #E7C96E
+  background-color: #E7C96E
+
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before, .pasos-b__header__item--before .pasos-b__header__item__line-container:after
+  background-color: #afafaf
+.pasos-b__header__item--active .pasos-b__header__item__line-container:before 
+    background-color: #afafaf
+.pasos-b__header__item--active .pasos-b__header__item__dot span 
+  color: #12263f
+
+.pasos-b__header__item--active .pasos-b__header__item__dot 
+  background-color: #E7C96E
