@@ -50,25 +50,27 @@
     
     p Para brindar una buena atención al cliente es fundamental adaptarse al canal o medio a través del cual se brinda este servicio.  
     p Se encuentran:
-    .row.fondotema4.mb-4
-      .col.lg-12
-        .row.justify-content-center.align-items-center.mb-5
-          .col-lg-9.mb-4
-            TabsA.color-acento-contenido(data-aos="fade-down")
-              .tarjeta.color-acento-botones--borde.p-4(titulo="Atención presencial")
-                p Se trata de una relación cara a cara entre empresa y cliente.
+    .row.fondotema4.mb-4.justify-content-center
+      .col-lg-11.mt-4
+        .row.justify-content-center
+          .col.lg-12
+            .row.justify-content-center.align-items-center.mb-5
+              .col-lg-9.mb-4
+                TabsA.color-acento-contenido(data-aos="fade-down")
+                  .tarjeta.color-acento-botones--borde.p-4(titulo="Atención presencial")
+                    p Se trata de una relación cara a cara entre empresa y cliente.
+                  
+                  .tarjeta.color-acento-botones--borde.p-4(titulo="Atención telefónica")
+                    p Este tipo de atención exige una serie de normas de etiqueta para asegurar la atención al cliente. Es importante cuidar el tono de voz, la fluidez al hablar, claridad en la información, disponibilidad y respuestas ágiles.
+                  .tarjeta.color-acento-botones--borde.p-4(titulo="Atención virtual")
+                    p Se incluyen recursos tecnológicos en el servicio de atención al cliente, podemos encontrar canales como: correo electrónico, chat en vivo, redes sociales. 
+                  .tarjeta.color-acento-botones--borde.p-4(titulo="Atención proactiva")
+                    p Es un servicio que una compañía brinda cuando se pone en contacto con los consumidores sin que ellos lo esperen. Se utiliza cuando una empresa desea presentar un nuevo producto o servicio o presentar una oferta o beneficio.  
+                  .tarjeta.color-acento-botones--borde.p-4(titulo="Atención reactiva")
+                    p Es cuando el cliente se coloca en contacto con la empresa en cualquier motivo; y la empresa debe estar lista a responder a cualquier solicitud por parte del cliente.   
               
-              .tarjeta.color-acento-botones--borde.p-4(titulo="Atención telefónica")
-                p Este tipo de atención exige una serie de normas de etiqueta para asegurar la atención al cliente. Es importante cuidar el tono de voz, la fluidez al hablar, claridad en la información, disponibilidad y respuestas ágiles.
-              .tarjeta.color-acento-botones--borde.p-4(titulo="Atención virtual")
-                p Se incluyen recursos tecnológicos en el servicio de atención al cliente, podemos encontrar canales como: correo electrónico, chat en vivo, redes sociales. 
-              .tarjeta.color-acento-botones--borde.p-4(titulo="Atención proactiva")
-                p Es un servicio que una compañía brinda cuando se pone en contacto con los consumidores sin que ellos lo esperen. Se utiliza cuando una empresa desea presentar un nuevo producto o servicio o presentar una oferta o beneficio.  
-              .tarjeta.color-acento-botones--borde.p-4(titulo="Atención reactiva")
-                p Es cuando el cliente se coloca en contacto con la empresa en cualquier motivo; y la empresa debe estar lista a responder a cualquier solicitud por parte del cliente.   
-          
-          .col-lg-3.col-md-5.col-6
-            img(src='@/assets/curso/Tema4/img04.png', alt='')
+              .col-lg-3.col-md-5.col-6
+                img(src='@/assets/curso/Tema4/img04.png', alt='')
 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12
