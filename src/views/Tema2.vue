@@ -121,7 +121,7 @@
               .col-md-11.mb-4.mb-md-0
                 p Es una habitación para alojar 5 personas. Acomodación: pueden estar organizadas de la siguiente forma: dos camas dobles con una cama sencilla, o una cama doble con tres camas sencillas, o un camarote con tres camas sencillas o cinco camas sencillas. 
 
-    .row.justify-content-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.mb-3(data-aos="fade-right")
         .col-lg-9 
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
             .row.justify-content-center(titulo="Habitación familiar")
@@ -141,9 +141,40 @@
         .col-lg-3.col-8.col-md-5
           img.mb-3(src='@/assets/curso/Tema2/img07.png', alt='')
 
+    .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+        .col-sm-12.col-lg-12
+          .d-flex.align-items-center
+            img.w-card-icon(src="@/assets/curso/Tema6/casa.png")
+            h3.bg7.py-2.w-card-text Otros tipos de habitaciones pueden incluir
+    .py-2
+    .row.justify-content-center.cursor-pointer.mb-5(data-aos="fade-down")
+      .col-xl-4.col-lg-7.col-md-6.col-11.mb-4.mb-xl-0
+        .crd_hover_txt(@mouseover="mostrarIndicador = false")
+          .indicador--hover(v-if="mostrarIndicador")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/Tema2/img08.png", alt="")
+          .crd_hover_txt--body.text-center 
+            h4.mb-3 Habitaciones comunicadas
+            p.mb-0  Habitaciones con puertas de entrada individuales desde el exterior y una puerta de conexión entre ellas. Los huéspedes pueden moverse entre habitaciones sin pasar por el pasillo.
+      
+      .col-xl-4.col-lg-7.col-md-6.col-11.mb-4.mb-xl-0
+        .crd_hover_txt
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/Tema2/img09.png", alt="")
+          .crd_hover_txt--body.text-center 
+            h4.mb-3 Habitaciones contiguas
+            p.mb-0 Habitaciones con una pared común, pero sin puerta de conexión.  
 
-
-
+      .col-xl-4.col-lg-7.col-md-6.col-11.mb-4.mb-xl-0
+        .crd_hover_txt
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/Tema2/img10.png", alt="")
+          .crd_hover_txt--body.text-center 
+            h4.mb-3 Habitaciones adyacentes
+            p.mb-0 Habitaciones cercanas, tal vez al otro lado del pasillo.
 
 
 
