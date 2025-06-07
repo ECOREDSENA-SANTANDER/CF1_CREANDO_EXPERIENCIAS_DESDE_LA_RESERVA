@@ -62,12 +62,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
         .row
-          .col-lg-2
+          .col-lg-2.col-3.col-md-2
             img(src='@/assets/curso/Tema2/img04.png', alt='').mb-3
           .col-lg-10
             p Existen diversas categorías de hoteles de acuerdo a las comodidades, servicios y de infraestructura que brindan al viajero. La más usual está compuesta por estrellas: un hotel de cinco estrellas es el que ofrece el máximo nivel de confort. Al otro extremo, los hoteles de una estrella sólo brindan un servicio básico. 
         p.bg1.p-4 Normalmente se utilizan las estrellas para poder categorizar a un hotel en lo que respecta a sus prestaciones, servicios e instalaciones. No obstante, no podemos pasar por alto que en otros países del mundo esa citada categorización se realiza utilizando letras e incluso diamantes. En Colombia la categorización se realiza por estrellas. 
-      .col-lg-5
+      .col-lg-5.col-md-8
         img(src='@/assets/curso/Tema2/img03.png', alt='')
 
     .tarjeta.color-acento-contenido.p-4.mb-4(data-aos="fade-right")
@@ -177,53 +177,412 @@
             p.mb-0 Habitaciones cercanas, tal vez al otro lado del pasillo.
 
 
+    separador
+    #t_2_4.titulo-segundo.mb-5
+      h2 2.4 Portafolio de servicios  
+
+    p Es un #[em brochure] o un documento donde se encuentran los servicios que presta un establecimiento de alojamiento y hospedaje de acuerdo con los distintos departamentos que lo conforman.
+
+    .row.justify-content-center.align-items-center.mb-3
+        .col-lg-8
+          .row.justify-content-center.align-items-center
+            .col-lg-12
+              .bg23.mb-0
+                .row.justify-content-center.align-items-center.mb-0
+                  .col-lg-7(data-aos="fade-left")
+                    .bg23.p-2.mb-3.px-3
+                      .py-2
+                      p.mb-0 Se trata de una lista detallada de los servicios que ofrece la empresa, su función es informar a los posibles clientes sobre las ventajas y beneficios de contratar a la empresa.
+                      p Los portafolios de servicios funcionan como tarjetas de presentación para dar a conocer la empresa, pueden ser documentos físicos o digitales.
+
+                  .col-lg-5.d-none.d-lg-block(data-aos="fade-right")
+                    .bg8.p-3
+                      img.img-a.img-t(src='@/assets/curso/Tema2/img11.png', alt='')
+        .col-lg-4.mt-5
+          .row.align-items-end.mb-0
+            .col-lg-3.col-3.col-md-2
+              img.mb-3(src='@/assets/curso/Tema2/img12.png', alt='')
+            .col-lg-12
+              p El portafolio de servicios incluye diversos apartados, cada uno de estos suministra información sobre un aspecto de la empresa como nombre, años de trayectoria, socios, objetivos, misión y visión, proveedores, clientes, información de contacto, entre otros (Carvajal, 2016).  
+    p.mb-4 Para afianzar el conocimiento se invita a ir al siguiente video:
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-10  
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/mkIdPKBfpXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Definición del Portafolio
+
+    .row.justify-content-center.align-items-center(data-aos="fade-right").mb-4
+        .col-lg-12
+          .bg13.mb-4
+            .row.justify-content-center.align-items-center.mb-0
+              .col-lg-1.d-none.d-lg-block(data-aos="fade-right")
+                .bg11
+                  img.img-a.img-t(src='@/assets/curso/Tema2/img13.png', alt='')
+              .col-lg-11.col-11(data-aos="fade-left")
+                .bg13.mb-3
+                  .py-2
+                  p(data-aos="fade-right") Estos servicios complementarios permiten al viajero o huésped vivir una experiencia única dentro del establecimiento. 
+                  p Los servicios complementarios que se ofrecen dentro de un establecimiento de alojamiento según el departamento son: 
+
+    .tarjeta.fondoslyder.p-4.mb-4
+      SlyderA(tipo="b").fondoblanco.p-4
+        .row.justify-content-center
+          .col-md-12.mb-4.mb-md-0.col-lg-6.mt-3
+            h4.mb-4 Departamento de alojamiento
+            p Este se divide en tres subdepartamentos; #[b recepción, conserjería y pisos,] englobando así todo el aspecto relacionado con la estancia en términos de alojamiento de los huéspedes, ya que implica desde el momento en que el cliente efectúa su reserva hasta que se va del hotel, incluyendo esto, que la habitación en la que se va a hospedar esté siempre en perfectas condiciones.  
+          .col-md-7.col-lg-5
+            figure
+              img(src='@/assets/curso/Tema2/img14.png', alt='Texto que describa la imagen')
+        .row.justify-content-center
+          .col-md-12.mb-4.mb-md-0.col-lg-6.mt-3
+            h4.mb-4 Departamento de recepción
+            p Este departamento ofrece los servicios relacionados con la llegada y salida de los clientes, además de controlar, coordinar, gestionar y brindar diferentes servicios durante la permanencia de los huéspedes dentro de la instalación. 
+            p Además, en la recepción donde se elabora y emite la información diaria, a los diferentes departamentos del hotel para garantizar un trabajo armónico y fluido, que a la vez asegura un servicio de calidad. 
+            p Dentro de esta área se ofrecen los servicios de botones, de despertador de conserjería. 
+
+          .col-md-7.col-lg-5
+            figure
+              img(src='@/assets/curso/Tema2/img15.png', alt='Texto que describa la imagen')
+        
+        .row.justify-content-center
+          .col-md-12.mb-4.mb-md-0.col-lg-6.mt-3
+            h4.mb-4 Departamento de alimentos y bebidas
+            p El departamento de alimentos y bebidas es un departamento que da uno de los mayores ingresos al hotel de manera complementaria, es el área desde la cual se coordinan a diario, las operaciones del restaurante, la cocina, el departamento de banquetes, las barras, el servicio a habitaciones (room service) y utilería. 
+          .col-md-7.col-lg-5
+            figure
+              img(src='@/assets/curso/Tema2/img16.png', alt='Texto que describa la imagen')
+
+        .row.justify-content-center
+          .col-md-12.mb-4.mb-md-0.col-lg-6.mt-3
+            h4.mb-4 Departamento de #[em marketing]
+            p Se encarga de organizar actividades de interés a los huéspedes como:
+            ul.lista-ul--color
+              li.d-flex.mb-0
+                i.fas.fa-circle-check
+                p.mb-0 Tours guiado a sitios de interés locales.
+              li.d-flex.mb-0
+                i.fas.fa-circle-check
+                p.mb-0 Actividades de senderismo.
+              li.d-flex.mb-0
+                i.fas.fa-circle-check
+                p.mb-0 Organización de eventos (reuniones sociales, de negocios, culturales, empresariales). 
+
+          .col-md-7.col-lg-5
+            figure
+              img(src='@/assets/curso/Tema2/img17.png', alt='Texto que describa la imagen')
+
+        .row.justify-content-center
+          .col-md-12.mb-4.mb-md-0.col-lg-6.mt-3
+            h4.mb-4 Departamento de mantenimiento
+            p Se encarga del funcionamiento óptimo de las instalaciones, asegurando que las instalaciones del establecimiento se mantengan en buen estado, realizando inspecciones periódicas, respondiendo rápidamente a solicitudes de reparación de los huéspedes y del personal, asegurando que todas las habitaciones, pisos y áreas comunes se encuentren en perfectas condiciones de funcionamiento.  
+          .col-md-7.col-lg-5
+            figure
+              img(src='@/assets/curso/Tema2/img18.png', alt='Texto que describa la imagen')
+
+    .row.justify-content-center.align-items-center(data-aos="fade-right").mb-4
+        .col-lg-12
+          .bg13.mb-4
+            .row.justify-content-center.align-items-center.mb-0
+              .col-lg-1.d-none.d-lg-block(data-aos="fade-right")
+                .bg11
+                  img.img-a.img-t(src='@/assets/curso/Tema2/img19.png', alt='')
+              .col-lg-11.col-11(data-aos="fade-left")
+                .bg13.mb-3
+                  .py-2
+                  p(data-aos="fade-right") Además de los departamentos mencionados, el establecimiento también cuenta con áreas específicas como lavandería, entretenimiento y otros servicios adicionales.
+
+    .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12.col-12
+          TabsC
+            .relleno.py-3.py-md-4(titulo="Área de lavandería").fondotabs
+              .row.justify-content-center.p-4
+                .col-md-6.col-lg-4.col-9
+                  img(src='@/assets/curso/Tema2/img20.png', alt='')
+                .col-md-10.col-lg-6.mb-md-0
+                  br
+                  h4 Área de lavandería
+                  p Esta área está encargada del lavado, desinfección y mantenimiento de la lencería del hotel como sabanas, fundas de almohadas, toallas y otros textiles utilizados en las habitaciones y áreas comunes del hotel. Ofrece el servicio de lavandería para huéspedes lavado y planchado. 
+            
+            .relleno.py-3.py-md-4(titulo="Áreas de entretenimiento ").fondotabs
+              .row.justify-content-center.p-4
+                .col-md-6.col-lg-4.col-9
+                  img(src='@/assets/curso/Tema2/img21.png', alt='')
+                .col-md-10.col-lg-6.mb-md-0
+                  br
+                  h4 Áreas de entretenimiento 
+                  p Estas áreas sirven con fines de interacción social de entretenimiento y relajación, suelen estar presentes en la mayoría de los alojamientos. Los servicios que se pueden encontrar dentro de esta área para atención al huésped son los servicios de:
+                  ul.lista-ul--color
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 #[em Spa.] 
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 Jacuzzis.
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 Zonas húmedas (sauna, turco).
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 Piscina.
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 Gimnasio.
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 Juegos de mesa.
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 Actividades al aire libre (canchas de tenis, voleibol y baloncesto).
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 Discotecas.
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 Bar.
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 Espectáculos en vivo.
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 Áreas de juego infantiles. 
+    
+            .relleno.py-3.py-md-4(titulo="Servicios adicionales ").fondotabs
+              .row.justify-content-center.mb-0.p-4
+                .col-md-6.col-lg-4.col-9
+                  img(src='@/assets/curso/Tema2/img22.png', alt='')
+                .col-md-10.col-lg-6.mb-md-0
+                  br
+                  h4 Servicios adicionales 
+                  p Esta área está encargada del lavado, desinfección y mantenimiento de la lencería del hotel como sabanas, fundas de almohadas, toallas y otros textiles utilizados en las habitaciones y áreas comunes del hotel. Ofrece el servicio de lavandería para huéspedes lavado y planchado. 
+                  ul.lista-ul--color
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 Acceso de internet – wifi.
+
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 #[em Coworking.]
+
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 Salón para fumadores.
+
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 Alquiler de equipos deportivos.
+
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 Espacios #[em pet friendly.]
+
+                    li.d-flex.mb-0
+                      i.fas.fa-circle-check
+                      p.mb-0 Servicio de parqueadero.
+
+            
+    .tarjeta.color-acento-contenido.p-4.mb-4(data-aos="fade-right")
+        .row.justify-content-around.align-items-center
+          .col-3.col-sm-2.col-lg-1
+            img(src="@/assets/curso/Tema1/pdf.png")
+          .col
+            .row.justify-content-between.align-items-center
+              .col.mb-3.mb-sm-0
+                h4.mb-2 Ejemplo 1 de portafolio de servicio
+                p.mb-0 Lo invitamos a ver la siguiente información, donde podrá conocer los servicios en establecimiento de alojamiento.
+              .col-sm-auto
+                a.boton.color-acento-botones(href="https://cotelcocaldas.com/Descargas/CotelcoPortafolio.pdf" target="_blank")
+                  span Descargar 
+                  i.fas.fa-file-download
+
+    .tarjeta.color-acento-contenido.p-4.mb-4(data-aos="fade-right")
+        .row.justify-content-around.align-items-center
+          .col-3.col-sm-2.col-lg-1
+            img(src="@/assets/curso/Tema1/pdf.png")
+          .col
+            .row.justify-content-between.align-items-center
+              .col.mb-3.mb-sm-0
+                h4.mb-2 Ejemplo 2 de portafolio de servicio
+                p.mb-0 Lo invitamos a ver la siguiente información, donde podrá conocer los servicios en establecimiento de alojamiento. 
+              .col-sm-auto
+                a.boton.color-acento-botones(href="https://www.hoteldongregorio.net/portafolio/" target="_blank")
+                  span Descargar 
+                  i.fas.fa-file-download
+
+    separador
+    #t_2_5.titulo-segundo.mb-5
+      h2 2.5 Clientes – tipos de clientes – características
+
+    p Un cliente es una persona natural o jurídica que recibe un servicio. Un cliente para un establecimiento de alojamiento es un huésped que se aloja por un periodo de tiempo con el propósito de solo pernoctar y alimentarse o de realizar diferentes actividades. 
+    p.mb-4 En la comercialización de servicios dentro de un establecimiento de alojamiento, es importante conocer los tipos de clientes que existen con sus características para saber cómo tratarlos y lograr una venta efectiva. Algunos tipos de clientes comunes en un alojamiento son:
+
+    .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+        .col-sm-12.col-lg-12
+          .d-flex.align-items-center
+            img.w-card-icon(src="@/assets/curso/Tema6/casa.png")
+            h3.bg7.py-2.w-card-text Tipos de clientes con sus características
+
+    .fondo2.p-3.mb-5
+      .row.justify-content-center.mb-0.p-2.mt-2
+        .col-lg-4.bg111.p-4.mb-3
+          .py-1
+          ul.lista-ul--color
+            li.bg10.p-2.d-flex
+              i.fas.fa-circle-check
+              p.mb-0 #[b Cliente turista:] son viajeros que se desplazan hacia otros destinos por razones de turismo. Buscan experiencias locales como actividades culturales y turísticas. 
+
+            li.bg10.p-2.d-flex
+              i.fas.fa-circle-check
+              p.mb-0 #[b Viajeros de negocios:] buscan hospedaje por compromisos labores, valoran servicios como acceso a internet de alta velocidad, salas de reuniones y servicios de reunión. 
+
+            li.bg10.p-2.d-flex
+              i.fas.fa-circle-check
+              p.mb-0 #[b Familias:] incluyen padres con niños, buscan comodidad, actividades para niños, menús infantiles. 
+
+            li.bg10.p-2.d-flex
+              i.fas.fa-circle-check
+              p.mb-0 #[b Viajeros solitarios:] son personas que viajan solas buscando tranquilidad y comodidad.
+            li.bg10.p-2.d-flex
+              i.fas.fa-circle-check
+              p.mb-0 #[b Aventureros:] amantes de la aventura, buscan excursiones, deportes y actividades al aire libre.
+ 
+        .col-lg-4.bg111.p-4.mb-3
+            .py-1
+            ul.lista-ul--color
+              li.bg10.p-2.d-flex
+                i.fas.fa-circle-check
+                p.mb-0 #[b Luna de miel y parejas:]  parejas que buscan celebrar una fecha importante, valoran la privacidad, la elegancia y los detalles. 
 
 
+              li.bg10.p-2.d-flex
+                i.fas.fa-circle-check
+                p.mb-0 #[b Grupos y eventos:]  grupos turísticos, de conferencias o eventos especiales, buscan servicios de banquetes, salas de reuniones y capacidad para alojar un gran número de personas.
 
 
+              li.bg10.p-2.d-flex
+                i.fas.fa-circle-check
+                p.mb-0 #[b Clientes de negocios de larga estadía:]  viajeros de negocios que buscan alojamiento durante un periodo prolongado y tarifas especiales. 
+
+              li.bg10.p-2.d-flex
+                i.fas.fa-circle-check
+                p.mb-0 #[b Viajeros de última hora:]  clientes que hacen reservas a última hora, buscan disponibilidad inmediata pueden estar dispuestos a pagar un poco más por la conveniencia.
+
+            
+        .col-lg-4.bg111.p-4.mb-3
+            .py-1
+            ul.lista-ul--color
+              li.bg10.p-2.d-flex
+                i.fas.fa-circle-check
+                p.mb-0 #[b Clientes leales:]  clientes que reservan en el hotel en múltiples ocasiones, ofrecer a estos clientes programas de beneficios es una buena estrategia para conservarlos.
 
 
+              li.bg10.p-2.d-flex
+                i.fas.fa-circle-check
+                p.mb-0 #[b Clientes con necesidades especiales:]  algunos huéspedes pueden tener necesidades especiales como movilidad reducida, alergias alimentarias o mascotas. Es importante atender estas necesidades de manera efectiva.
 
 
+              li.bg10.p-2.d-flex
+                i.fas.fa-circle-check
+                p.mb-0 #[b Clientes internacionales:]  son viajeros internacionales, pueden tener diferentes expectativas culturales y requerir servicios como adaptadores eléctricos, asistencia en varios idiomas y alimentos internacionales.  
+        .col-lg-12.d-none.d-lg-block
+          img.centrado(src="@/assets/curso/Tema2/img23.svg")
+
+           
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-5.mb-3.col-md-9
+        img(src='@/assets/curso/Tema2/img24.png', alt='')
+      .col-lg-7
+        .row
+          .col-lg-2.col-3.col-md-2
+            img(src='@/assets/curso/Tema2/img04.png', alt='').mb-3
+          .col-lg-10
+            p El área o departamento de reservas tiene en la gran mayoría de los casos el primer contacto con los clientes que en un futuro inmediato visitarán el hotel; manteniendo contacto permanente con los diferentes tipos de clientes: agencias de viajes, empresas y particulares.
+        p Este departamento se encarga de administrar de manera eficiente la disponibilidad de habitaciones, procurando siempre venderlas de la forma más conveniente y rentable para el hotel.
+        p Las reservas pueden ser telefónicas, directas, virtuales, por grupos y a través de sistemas de reservaciones o Sistema de Distribución Global (por sus siglas en inglés GDS).
+      
+
+    .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+        .col-sm-12.col-lg-12
+          .d-flex.align-items-center
+            img.w-card-icon(src="@/assets/curso/Tema6/casa.png")
+            h3.bg7.py-2.w-card-text Funciones  
+
+    .row.justify-content-center.align-items-center(data-aos="fade-left").mb-4
+        .col-lg-12.col-md-12.col-12
+          .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5
+            .bloque-texto-g__img(
+              :style="{'background-image': `url(${require('@/assets/curso/Tema2/img25.png')})`}"
+            )
+            .bloque-texto-g__texto.p-4
+              br
+              p.mb-4 El personal que labore en reservas debe dar a conocer los servicios que ofrece el establecimiento con el propósito de lograr una venta efectiva con el cliente, igualmente debe poseer los conocimientos necesarios que implica el proceso de reservaciones.  
+              br
+              br
+              p Tiene como principal función la recepción y control de las solicitudes de espacio para la reserva de habitaciones, tanto de las agencias de viajes, como de otras empresas y público en general, además cumple con una importante labor en el proceso de venta de habitaciones, manteniendo actualizada la recepción, respecto a la situación ocupacional del hotel, con el objetivo de captar la mayor cantidad de clientes. 
+              br
+              br
+
+    p.mb-4 Es el primer contacto de los clientes con el hotel y debe proporcionar una imagen de amabilidad en el trato y eficiencia en la prestación de servicio.  
+
+    .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+        .col-sm-12.col-lg-12
+          .d-flex.align-items-center
+            img.w-card-icon(src="@/assets/curso/Tema6/casa.png")
+            h3.bg7.py-2.w-card-text Cualidades del personal de reservas 
+
+    p.mb-4 Las cualidades que debe presentar el personal de reservas son:   
 
 
+    .row.justify-content-center.align-items-center.fondo3.p-4
+      .col-lg-11
+        .row.justify-content-center.align-items-center
+          .col-lg-3.col-7.mb-3.col-md-5
+            img(src="@/assets/curso/Tema2/img26.png")
+          .col-lg-9
+            .row.justify-content-center.align-items-center
+              .col-lg-12.col-12.col-md-12
+                SlyderF(columnas="col-lg-3 col-xl-5 col-md-12")
+                  .tarjeta.color-slyder.p-4
+                    .row.justify-content-center
+                      .col-12
+                        img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/Tema2/ico11.png' alt='AvatarTop')
+                        .row.justify-content-center
+                          .col-12.mb-2
+                            h4.text-center.bg1.p-1 Presentación personal
+                          .col-12.mb-4 
+                            p.text-center.mb-0 Excelente presentación personal acorde a las normas de etiqueta y protocolo (aseo personal, portar adecuadamente el uniforme, buena postura).
+                  
+                  .tarjeta.color-slyder.p-4
+                    .row.justify-content-center
+                      .col-12
+                        img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/Tema2/ico2.png' alt='AvatarTop')
+                        .row.justify-content-center
+                          .col-9.mb-2
+                            h4.text-center.bg1.p-1 Amabilidad
+                          .col-12.mb-4 
+                            p.text-center.mb-0 Amabilidad y cortesía, ser respetuoso de la necesidad de las personas, actuando con buena actitud y muy receptivo.
 
 
+                  .tarjeta.color-slyder.p-4
+                    .row.justify-content-center
+                      .col-12
+                        img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/Tema2/ico3.png' alt='AvatarTop')
+                        .row.justify-content-center
+                          .col-12.mb-2
+                            h4.text-center.bg1.p-1 Comunicación verbal
+                          .col-12.mb-4 
+                            p.text-center.mb-0 Comunicación verbal, vocabulario sencillo, comprensible y apropiado, hablar fluida y tranquilamente, evitando respuestas monosilábicas.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                  .tarjeta.color-slyder.p-4
+                    .row.justify-content-center
+                      .col-12
+                        img.img-a.img-t.mb-4(data-aos="zoom-in-left")(src='@/assets/curso/Tema2/ico4.png' alt='AvatarTop')
+                        .row.justify-content-center
+                          .col-12.mb-2
+                            h4.text-center.bg1.p-1 Comunicación no verbal 
+                          .col-12.mb-4 
+                            p.text-center.mb-0 Comunicación no verbal, cuidar movimientos corporales, su expresión facial, comunicación visual y táctil. Manejar la distancia proxémica con el huésped. 
 
 
 
