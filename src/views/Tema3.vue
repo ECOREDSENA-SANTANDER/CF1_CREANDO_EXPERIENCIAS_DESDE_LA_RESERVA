@@ -21,7 +21,7 @@
                 .col-lg-6.p-4(data-aos="fade-left")
                   .bg3.p-1.mb-4
                     h4.mb-0(data-aos="fade-left") Definición
-                  p.mb-0(data-aos="fade-right") La comunicación es un proceso que consiste en la transmisión e intercambio de mensajes entre un emisor y un receptor. La palabra deriva del latín communicare que significa compartir, participar en algo o poner en común. 
+                  p.mb-0(data-aos="fade-right") La comunicación es un proceso que consiste en la transmisión e intercambio de mensajes entre un emisor y un receptor. La palabra deriva del latín #[em communicare] que significa compartir, participar en algo o poner en común. 
       .col-lg-3.col-md-5.col-7
         img(src='@/assets/curso/Tema3/img02.png', alt='')
       
@@ -70,16 +70,16 @@
                   ul.lista-ul--color.px-3
                     li.d-flex.mb-0
                       i.fas.fa-circle-check
-                      p.mb-0 #[b Sitio web del hotel:] a través de las páginas web ofrecen tarifas, beneficios y servicios. 
+                      p.mb-0 Sitio web del hotel: a través de las páginas web ofrecen tarifas, beneficios y servicios. 
                     li.d-flex.mb-0
                       i.fas.fa-circle-check
-                      p.mb-0 #[b Teléfono:] para clientes que prefieren la atención personalizada.
+                      p.mb-0 Teléfono: para clientes que prefieren la atención personalizada.
                     li.d-flex.mb-0
                       i.fas.fa-circle-check
-                      p.mb-0 #[b Correo electrónico:] los clientes envían solicitudes de reservas sobre todo para grupos o eventos especiales.
+                      p.mb-0 Correo electrónico: los clientes envían solicitudes de reservas sobre todo para grupos o eventos especiales.
                     li.d-flex.mb-0
                       i.fas.fa-circle-check
-                      p.mb-0 #[b Redes sociales:] a través de mensajes directos o enlaces en la biografía del hotel.
+                      p.mb-0 Redes sociales: a través de mensajes directos o enlaces en la biografía del hotel.
                 
                 
                 
@@ -111,8 +111,7 @@
         .col-sm-12.col-lg-12
           .d-flex.align-items-center.mt-3
             img.w-card-icon(src="@/assets/curso/Tema3/img06.png")
-            p.bg13.py-2.w-card-text La comunicación es un arte y se debe aprender, se debe preparar bien el mensaje que desea transmitir. 
-              Definir y tener muy claro lo que se quiere comunicar utilizando el lenguaje más adecuado y considerando el contexto en el que se efectúa la comunicación.
+            p.bg13.py-2.w-card-text La comunicación es un arte y se debe aprender, se debe preparar bien el mensaje que desea transmitir. <br> Definir y tener muy claro lo que se quiere comunicar utilizando el lenguaje más adecuado y considerando el contexto en el que se efectúa la comunicación.
 
       p.mb-4 Las siguientes son técnicas que permiten una interacción más confiable con el cliente:
 
@@ -240,7 +239,7 @@
             h3.bg7.py-2.w-card-text Técnicas para una comunicación efectiva con las personas 
 
 
-      h5 Al tratar a otras personas es importante:
+      p Al tratar a otras personas es importante:
 
       .row.justify-content-center.mb-5(data-aos="zoom-in-left")
         .col-lg-7.bg11

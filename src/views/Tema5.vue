@@ -103,7 +103,7 @@
       h2 5.1 Técnicas de recolección de datos
 
     p El análisis de datos es el proceso de examinar conjuntos de datos, para buscar patrones, sacar conclusiones, apoyar la toma de decisiones y predecir futuras tendencias del mercado.
-    p.mb-4 En los hoteles se utilizan técnicas de recolección de datos para recopilar, analizar datos de diversas fuentes a través del sitio web del hotel, los canales de redes sociales, las agencias de viajes (OTA, Online Travel Agency), las encuestas. Estos datos se utilizan para realizar cambios que mejoren la gestión de los ingresos, la ocupación, la experiencia de los huéspedes y la eficacia operativa. 
+    p.mb-4 En los hoteles se utilizan técnicas de recolección de datos para recopilar, analizar datos de diversas fuentes a través del sitio web del hotel, los canales de redes sociales, las agencias de viajes (OTA, #[em Online Travel Agency]), las encuestas. Estos datos se utilizan para realizar cambios que mejoren la gestión de los ingresos, la ocupación, la experiencia de los huéspedes y la eficacia operativa. 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-9
@@ -397,7 +397,7 @@
                 p.mb-0 Principal motivo de viaje. 
               li.d-flex.mb-0
                 i.fas.fa-circle-check
-                p.mb-0 Fecha de entrada #[em (check-in] y de salida #[em (check-out).]
+                p.mb-0 Fecha de entrada #[em (check-in)] y de salida #[em (check-out).]
               li.d-flex.mb-0
                 i.fas.fa-circle-check
                 p.mb-0 Actividad económica relacionada con el alojamiento.

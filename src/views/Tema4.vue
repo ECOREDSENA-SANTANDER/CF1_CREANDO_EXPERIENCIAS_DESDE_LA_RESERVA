@@ -156,7 +156,7 @@
     .tarjeta.color-acento-contenido.p-4.mb-4(data-aos="fade-right")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/Tema1/pdf.png")
+            img(src="@/assets/curso/Tema2/web.png")
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
@@ -164,8 +164,8 @@
                 p.mb-0 Lo invitamos a consultar el siguiente video, donde podrá conocer más a fondo sobre protocolos de atención y servicio al cliente.
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=9o5sUuHmB-k" target="_blank")
-                  span Descargar 
-                  i.fas.fa-file-download
+                  span Ir al sitio 
+                  i.fas.fa-globe
     separador
     #t_4_3.titulo-segundo.mb-5
       h2 4.3 Ética del servicio 

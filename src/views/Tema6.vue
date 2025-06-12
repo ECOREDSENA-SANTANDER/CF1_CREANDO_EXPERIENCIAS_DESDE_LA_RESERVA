@@ -117,7 +117,7 @@
                   .py-2
                   p.mb-0(data-aos="fade-right") Las objeciones son los obstáculos que se presentan en un momento determinado, se utiliza el “no” o el “pero” por parte del cliente, esto lo puede hacer para asegurarse que el producto o servicio cumplirá sus expectativas.
       
-      p Es necesario que el vendedor desarrolle la habilidad para dar un manejo acertado y se efectúe la venta, por esta razón necesitará conocer muy bien los servicios que se ofrecen en el establecimiento, y tener la capacidad de transmitir la información y dar la seguridad al cliente que obtendrá lo que está buscando
+      p Es necesario que el vendedor desarrolle la habilidad para dar un manejo acertado y se efectúe la venta, por esta razón necesitará conocer muy bien los servicios que se ofrecen en el establecimiento, y tener la capacidad de transmitir la información y dar la seguridad al cliente que obtendrá lo que está buscando.
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-12

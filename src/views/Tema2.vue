@@ -21,7 +21,7 @@
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/fAg0gdOyEt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Establecimientos de alojamiento y hospedaje.
+        figcaption Video: Establecimienots de alojamiento y hospedaje.
 
     separador
     #t_2_1.titulo-segundo.mb-5
@@ -37,8 +37,8 @@
               .col-lg-9.mb-4
                 TabsA.color-acento-contenido(data-aos="fade-down")
                   .tarjeta.color-acento-botones--borde.p-4(titulo="Hotel")
-                    p Un hotel es un establecimiento que se dedica al alojamiento de huéspedes o viajeros. El término proviene del vocablo francés hotel, que hace referencia a una “casa adosada”.
-                    p De acuerdo con la legislación colombiana, un hotel es aquel establecimiento en que se presta el servicio de alojamiento en habitaciones. Dispone como mínimo del servicio de recepción y del servicio del lobby para recibir a los huéspedes. Los demás servicios que pueda ofrecer un hotel son servicios complementarios como, por ejemplo, servicios de alimentos y bebidas, servicio de conserjería, de recreación, de bienestar, entre otros.   
+                    p Un hotel es un establecimiento que se dedica al alojamiento de huéspedes o viajeros. El término proviene del vocablo francés #[em hotel], que hace referencia a una “casa adosada”.
+                    p De acuerdo con la legislación colombiana, un hotel es aquel establecimiento en que se presta el servicio de alojamiento en habitaciones. Dispone como mínimo del servicio de recepción y del servicio del #[em lobby] para recibir a los huéspedes. Los demás servicios que pueda ofrecer un hotel son servicios complementarios como, por ejemplo, servicios de alimentos y bebidas, servicio de conserjería, de recreación, de bienestar, entre otros.   
                   .tarjeta.color-acento-botones--borde.p-4(titulo="Posadas turísticas")
                     p Viviendas familiares preferiblemente de arquitectura autóctona cuyo principal propósito es promover la generación de empleo e ingresos a las familias residentes. Estas posadas se caracterizan por compartir una sola cocina para los huéspedes, igualmente por compartir los baños. 
                   .tarjeta.color-acento-botones--borde.p-4(titulo="Albergue – refugio – hostal")
@@ -62,12 +62,12 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7
         .row
-          .col-lg-2.col-3.col-md-2
+          .col-lg-2.col-3.col-md-2.d-none.d-lg-block
             img(src='@/assets/curso/Tema2/img04.png', alt='').mb-3
           .col-lg-10
             p Existen diversas categorías de hoteles de acuerdo a las comodidades, servicios y de infraestructura que brindan al viajero. La más usual está compuesta por estrellas: un hotel de cinco estrellas es el que ofrece el máximo nivel de confort. Al otro extremo, los hoteles de una estrella sólo brindan un servicio básico. 
         p.bg1.p-4 Normalmente se utilizan las estrellas para poder categorizar a un hotel en lo que respecta a sus prestaciones, servicios e instalaciones. No obstante, no podemos pasar por alto que en otros países del mundo esa citada categorización se realiza utilizando letras e incluso diamantes. En Colombia la categorización se realiza por estrellas. 
-      .col-lg-5.col-md-8
+      .col-lg-5.col-md-8.d-none.d-lg-block
         img(src='@/assets/curso/Tema2/img03.png', alt='')
 
     .tarjeta.color-acento-contenido.p-4.mb-4(data-aos="fade-right")
@@ -107,7 +107,7 @@
                 p Una habitación asignada a una persona. Las medidas de las camas individuales pueden ser: 90 centímetros de ancho por 190 cm de largo. Acomodación: puede tener una o más camas, pero solo es ocupada por una persona.
             .row.justify-content-center(titulo="Habitación doble")
               .col-md-11.mb-4.mb-md-0
-                p Una habitación asignada a dos personas. Acomodación: puede tener una cama doble de 140 centímetros de ancho por 190 centímetros de largo o dos camas sencillas de 90 centímetros de ancho por 190 centímetros de largo. La habitación doble que cuente con dos camas sencillas también se le conoce como habitación twin. 
+                p Una habitación asignada a dos personas. Acomodación: puede tener una cama doble de 140 centímetros de ancho por 190 centímetros de largo o dos camas sencillas de 90 centímetros de ancho por 190 centímetros de largo. La habitación doble que cuente con dos camas sencillas también se le conoce como habitación #[em twin.]
             
             .row.justify-content-center(titulo="Habitación triple")
               .col-md-11.mb-4.mb-md-0
@@ -129,7 +129,7 @@
                 p Es una habitación para alojar entre 6 a 7 personas. Acomodación: pueden estar organizadas con camas dobles, camas sencillas y/o camarotes. 
             .row.justify-content-center(titulo="Habitación matrimonial")
               .col-md-11.mb-4.mb-md-0
-                p Habitación para pareja. Acomodación: este tipo de habitación ofrece una cama Queen Size con medidas de 160 centímetros de ancho por 190 centímetros de largo.  
+                p Habitación para pareja. Acomodación: este tipo de habitación ofrece una cama #[em Queen Size] con medidas de 160 centímetros de ancho por 190 centímetros de largo.  
             
             .row.justify-content-center(titulo="Habitación <i>suite</i>")
               .col-md-11.mb-4.mb-md-0
@@ -239,8 +239,10 @@
           .col-md-12.mb-4.mb-md-0.col-lg-6.mt-3
             h4.mb-4 Departamento de recepción
             p Este departamento ofrece los servicios relacionados con la llegada y salida de los clientes, además de controlar, coordinar, gestionar y brindar diferentes servicios durante la permanencia de los huéspedes dentro de la instalación. 
+            p En la recepción, por tanto, donde afluyen las solicitudes, reclamaciones y quejas (oportunidades) directamente relacionadas con el servicio de la instalación.
             p Además, en la recepción donde se elabora y emite la información diaria, a los diferentes departamentos del hotel para garantizar un trabajo armónico y fluido, que a la vez asegura un servicio de calidad. 
             p Dentro de esta área se ofrecen los servicios de botones, de despertador de conserjería. 
+
 
           .col-md-7.col-lg-5
             figure
@@ -249,7 +251,7 @@
         .row.justify-content-center
           .col-md-12.mb-4.mb-md-0.col-lg-6.mt-3
             h4.mb-4 Departamento de alimentos y bebidas
-            p El departamento de alimentos y bebidas es un departamento que da uno de los mayores ingresos al hotel de manera complementaria, es el área desde la cual se coordinan a diario, las operaciones del restaurante, la cocina, el departamento de banquetes, las barras, el servicio a habitaciones (room service) y utilería. 
+            p El departamento de alimentos y bebidas es un departamento que da uno de los mayores ingresos al hotel de manera complementaria, es el área desde la cual se coordinan a diario, las operaciones del restaurante, la cocina, el departamento de banquetes, las barras, el servicio a habitaciones (#[em room service]) y utilería. 
           .col-md-7.col-lg-5
             figure
               img(src='@/assets/curso/Tema2/img16.png', alt='Texto que describa la imagen')
@@ -399,7 +401,7 @@
     .tarjeta.color-acento-contenido.p-4.mb-4(data-aos="fade-right")
         .row.justify-content-around.align-items-center
           .col-3.col-sm-2.col-lg-1
-            img(src="@/assets/curso/Tema1/pdf.png")
+            img(src="@/assets/curso/Tema2/web.png")
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
@@ -407,8 +409,8 @@
                 p.mb-0 Lo invitamos a ver la siguiente información, donde podrá conocer los servicios en establecimiento de alojamiento. 
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://www.hoteldongregorio.net/portafolio/" target="_blank")
-                  span Descargar 
-                  i.fas.fa-file-download
+                  span Ir al sitio
+                  i.fas.fa-globe
 
     separador
     #t_2_5.titulo-segundo.mb-5
@@ -487,20 +489,24 @@
                 p.mb-0 #[b Clientes internacionales:]  son viajeros internacionales, pueden tener diferentes expectativas culturales y requerir servicios como adaptadores eléctricos, asistencia en varios idiomas y alimentos internacionales.  
         .col-lg-12.d-none.d-lg-block
           img.centrado(src="@/assets/curso/Tema2/img23.svg")
-
+    
+    separador
+    #t_2_6.titulo-segundo.mb-5
+      h2 2.6 Área de reservas 
            
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-3.col-md-9
         img(src='@/assets/curso/Tema2/img24.png', alt='')
       .col-lg-7
         .row
-          .col-lg-2.col-3.col-md-2
+          .col-lg-2.col-3.col-md-2.d-none.d-lg-block
+
             img(src='@/assets/curso/Tema2/img04.png', alt='').mb-3
           .col-lg-10
             p El área o departamento de reservas tiene en la gran mayoría de los casos el primer contacto con los clientes que en un futuro inmediato visitarán el hotel; manteniendo contacto permanente con los diferentes tipos de clientes: agencias de viajes, empresas y particulares.
         p Este departamento se encarga de administrar de manera eficiente la disponibilidad de habitaciones, procurando siempre venderlas de la forma más conveniente y rentable para el hotel.
         p Las reservas pueden ser telefónicas, directas, virtuales, por grupos y a través de sistemas de reservaciones o Sistema de Distribución Global (por sus siglas en inglés GDS).
-      
+    
 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-12
