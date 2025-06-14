@@ -398,9 +398,7 @@
               li.d-flex.mb-0
                 i.fas.fa-circle-check
                 p.mb-0 Fecha de entrada #[em (check-in)] y de salida #[em (check-out).]
-              li.d-flex.mb-0
-                i.fas.fa-circle-check
-                p.mb-0 Actividad económica relacionada con el alojamiento.
+        
 
           .col-md-7.col-lg-5
             figure

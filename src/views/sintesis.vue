@@ -16,7 +16,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Descripción imagen")
+          img(src="@/assets/curso/sintesis.svg", alt="Esta síntesis, titulada creando experiencias desde la reserva, resume el proceso de gestión en alojamientos turísticos. El diagrama describe cómo se interrelacionan seis áreas clave: conocimientos básicos del sector, normativa, apropiación, comunicación, servicio al cliente, sistema de información y estrategias de venta. En su conjunto, ilustra el camino para asegurar una experiencia de calidad para el cliente desde el momento de la reserva.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/SINTESIS.pdf')" target="_blank")
           .anexo__icono
