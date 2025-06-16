@@ -164,8 +164,8 @@
                 p.mb-0 Lo invitamos a consultar el siguiente video, donde podrá conocer más a fondo sobre protocolos de atención y servicio al cliente.
               .col-sm-auto
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=9o5sUuHmB-k" target="_blank")
-                  span Ir al sitio 
-                  i.fas.fa-globe
+                  span Ver video
+                  i.fas.fa-play
     separador
     #t_4_3.titulo-segundo.mb-5
       h2 4.3 Ética del servicio 
