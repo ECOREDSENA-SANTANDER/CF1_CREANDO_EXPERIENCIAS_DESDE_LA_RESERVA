@@ -20,7 +20,7 @@
        .col-lg-10  
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/fAg0gdOyEt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/eIWawvhzjH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video: Establecimienots de alojamiento y hospedaje.
 
     separador
@@ -210,8 +210,8 @@
       .col-lg-10  
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/mkIdPKBfpXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Definición del Portafolio
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/_1RZegHaCTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video. Definición del Portafolio
 
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-4
         .col-lg-12
