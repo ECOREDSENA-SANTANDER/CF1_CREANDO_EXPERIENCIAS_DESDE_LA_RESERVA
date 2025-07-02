@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p La hotelería creada desde un principio para brindar hospitalidad a los viajeros que necesitan pernoctar y tener sus servicios básicos como alojamiento. 
+    p La hotelería fue creada desde un principio para brindar hospitalidad a los viajeros que necesitan pernoctar y tener sus servicios básicos como alojamiento. 
     p Desde ahí se crea la necesidad de brindar atención, bienestar y confort a un turista que se traslada de un lugar a otro y busca un lugar seguro para descansar y atender sus necesidades primarias (higiene, descanso, alimentación). 
     p Con el paso del tiempo la legislación colombiana estableció leyes que rigen esta actividad de manera responsable, organizada y articulada con los demás sectores turísticos como agencias de viajes, cadenas de transporte y guías profesionales entre otros. 
     p En el siguiente mapa conceptual se puede identificar como primera línea la normativa de formalización con las leyes que regulan esta actividad, los conceptos básicos de los establecimientos de alojamiento y hospedaje, los tipos de alojamiento y hospedaje que están definidos en la norma, la clasificación que se les da en Colombia según su categoría; y los tipos de habitación que de acuerdo con la norma, puede establecer un establecimiento de alojamiento y hospedaje.

@@ -126,7 +126,7 @@ export default {
           },
           {
             numero: '4.3',
-            titulo: '4.3	Ética del servicio',
+            titulo: 'Ética del servicio',
             hash: 't_4_3',
           },
         ],
@@ -379,7 +379,7 @@ export default {
     },
     {
       referencia:
-        'Elphick, D. (2024). Canales de Distribución Para Hoteles: Dominar los Conceptos y Llevar a Cabo las Mejores Prácticas. SiteMinder',
+        'Elphick, D. (2024). Canales de Distribución Para Hoteles: Dominar los Conceptos y Llevar a Cabo las Mejores Prácticas. SiteMinder.',
       link:
         'https://www.siteminder.com/es/r/canales-distribucion-hoteles/#ejemplos-de-canales-de-distribuci-n-para-hoteles  ',
     },
@@ -419,12 +419,12 @@ export default {
     },
     {
       referencia:
-        'Zendesk. (13 marzo de 2023). 12 tipos de clientes en hotelería y cómo ofrecerles el mejor servicio. Blog de Zendesk',
+        'Zendesk. (13 marzo de 2023). 12 tipos de clientes en hotelería y cómo ofrecerles el mejor servicio. Blog de Zendesk.',
       link: 'https://www.zendesk.com.mx/blog/tipos-de-clientes-en-hoteleria/ ',
     },
     {
       referencia:
-        'Zendesk. (s.f.) Tipos de servicio al cliente: ¿cómo brindar a mejor atención?. Blog de Zendesk',
+        'Zendesk. (s.f.) Tipos de servicio al cliente: ¿cómo brindar a mejor atención?. Blog de Zendesk.',
       link:
         'https://www.zendesk.com.mx/blog/cuales-son-tipos-de-servicio-al-cliente/ ',
     },
@@ -450,7 +450,12 @@ export default {
       autores: [
         {
           nombre: 'Aurora Milena Parada Ortega ',
-          cargo: 'Experta temática.',
+          cargo: 'Experta temática',
+          centro: 'Centro Agroturístico - Regional Santander.',
+        },
+        {
+          nombre: 'Sandra Paola Morales Páez',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico - Regional Santander.',
         },
       ],
