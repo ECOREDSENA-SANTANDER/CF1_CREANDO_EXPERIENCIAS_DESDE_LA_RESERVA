@@ -12,7 +12,7 @@
         .col-sm-12.col-lg-12
           .d-flex.align-items-center
             img.w-card-icon(src="@/assets/curso/Tema2/img01.png")
-            p.bg11.py-2.w-card-text Los establecimientos de alojamiento primariamente proveen y facilitan alojamiento para el público en general con servicios complementarios de alimentación, bebidas, conserjería, botones, lavandería, teléfono y recreación entre otros. 
+            p.bg11.py-2.w-card-text Los establecimientos de alojamiento primariamente proveen y facilitan alojamiento para el público en general con servicios complementarios de alimentación, bebidas, conserjería, botones, lavandería, teléfono y recreación, entre otros. 
 
     p.mb-4 Para afianzar el conocimiento se invita a ir al siguiente video:
 
@@ -20,8 +20,8 @@
        .col-lg-10  
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/eIWawvhzjH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Establecimienots de alojamiento y hospedaje.
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/XKKOWiQQVoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video: Establecimientos de alojamiento y hospedaje.
 
     separador
     #t_2_1.titulo-segundo.mb-5
@@ -66,7 +66,7 @@
             img(src='@/assets/curso/Tema2/img04.png', alt='').mb-3
           .col-lg-10
             p Existen diversas categorías de hoteles de acuerdo a las comodidades, servicios y de infraestructura que brindan al viajero. La más usual está compuesta por estrellas: un hotel de cinco estrellas es el que ofrece el máximo nivel de confort. Al otro extremo, los hoteles de una estrella sólo brindan un servicio básico. 
-        p.bg1.p-4 Normalmente se utilizan las estrellas para poder categorizar a un hotel en lo que respecta a sus prestaciones, servicios e instalaciones. No obstante, no podemos pasar por alto que en otros países del mundo esa citada categorización se realiza utilizando letras e incluso diamantes. En Colombia la categorización se realiza por estrellas. 
+        p.bg1.p-4 Normalmente, se utilizan las estrellas para poder categorizar a un hotel en lo que respecta a sus prestaciones, servicios e instalaciones. No obstante, no podemos pasar por alto que en otros países del mundo esa citada categorización se realiza utilizando letras e incluso diamantes. En Colombia la categorización se realiza por estrellas. 
       .col-lg-5.col-md-8.d-none.d-lg-block
         img(src='@/assets/curso/Tema2/img03.png', alt='')
 
@@ -80,7 +80,7 @@
                 h4.mb-2 Norma Técnica Sectorial Colombiana NTSH 006 de 2009
                 p.mb-0 Lo invitamos a visitar el siguiente PDF, donde podrá conocer la clasificación de establecimientos de alojamiento y hospedaje y las características de calidad en los servicios ofrecidos y de infraestructura, que deben cumplir los hoteles para obtener su certificado de categorización por estrellas.
               .col-sm-auto
-                a.boton.color-acento-botones(href="https://www.mincit.gov.co/getattachment/minturismo/calidad-y-desarrollo-sostenible/calidad-turistica/normas-tecnicas-sectoriales/nts-alojamiento-y-hospedaje-1/norma-tecnica-sectorial-colombiana-ntsh-006-i-actu/norma-tecnica-sectorial-colombiana-ntsh-006-i.pdf.aspx" target="_blank")
+                a.boton.color-acento-botones(href="https://fontur.com.co/sites/default/files/2020-11/NTSH006-09.pdf" target="_blank")
                   span Descargar 
                   i.fas.fa-file-download
 
@@ -240,8 +240,8 @@
             h4.mb-4 Departamento de recepción
             p Este departamento ofrece los servicios relacionados con la llegada y salida de los clientes, además de controlar, coordinar, gestionar y brindar diferentes servicios durante la permanencia de los huéspedes dentro de la instalación. 
             p En la recepción, por tanto, donde afluyen las solicitudes, reclamaciones y quejas (oportunidades) directamente relacionadas con el servicio de la instalación.
-            p Además, en la recepción donde se elabora y emite la información diaria, a los diferentes departamentos del hotel para garantizar un trabajo armónico y fluido, que a la vez asegura un servicio de calidad. 
-            p Dentro de esta área se ofrecen los servicios de botones, de despertador de conserjería. 
+            p Además, es la recepción donde se elabora y emite la información diaria, a los diferentes departamentos del hotel para garantizar un trabajo armónico y fluido, que a la vez asegura un servicio de calidad. 
+            p Dentro de esta área se ofrecen los servicios de botones, de despertador, de conserjería. 
 
 
           .col-md-7.col-lg-5
@@ -305,7 +305,7 @@
                 .col-md-10.col-lg-6.mb-md-0
                   br
                   h4 Área de lavandería
-                  p Esta área está encargada del lavado, desinfección y mantenimiento de la lencería del hotel como sabanas, fundas de almohadas, toallas y otros textiles utilizados en las habitaciones y áreas comunes del hotel. Ofrece el servicio de lavandería para huéspedes lavado y planchado. 
+                  p Esta área está encargada del lavado, desinfección y mantenimiento de la lencería del hotel como sabanas, fundas de almohadas, toallas y otros textiles utilizados en las habitaciones y áreas comunes del hotel. Ofrece el servicio de lavandería para huéspedes, lavado y planchado. 
             
             .relleno.py-3.py-md-4(titulo="Áreas de entretenimiento ").fondotabs
               .row.justify-content-center.p-4
@@ -468,7 +468,7 @@
 
               li.bg10.p-2.d-flex
                 i.fas.fa-circle-check
-                p.mb-0 #[b Viajeros de última hora:]  clientes que hacen reservas a última hora, buscan disponibilidad inmediata pueden estar dispuestos a pagar un poco más por la conveniencia.
+                p.mb-0 #[b Viajeros de última hora:]  clientes que hacen reservas a última hora, buscan disponibilidad inmediata, pueden estar dispuestos a pagar un poco más por la conveniencia.
 
             
         .col-lg-4.bg111.p-4.mb-3

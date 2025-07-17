@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-9
-        p En el sector hotelero las ventas no son exclusividad de unos pocos funcionarios, es responsabilidad de todos los empleados de la organización, cada uno ejerce influencia sobre los clientes, por lo tanto, la disposición a prestar un excelente servicio debe ser una estrategia permanente.  
+        p En el sector hotelero las ventas, no son exclusividad de unos pocos funcionarios, es responsabilidad de todos los empleados de la organización, cada uno ejerce influencia sobre los clientes, por lo tanto, la disposición a prestar un excelente servicio debe ser una estrategia permanente.  
         .row.justify-content-center.align-items-center
           .col-lg-12
             .bg12.mb-5
@@ -80,12 +80,12 @@
             .row.justify-content-center(titulo="Sistema de entrenamiento Zelev Noel ")
               .col-md-11.mb-4.mb-md-0
                 p Propuesta sobre el acróstico VENTAS 
-                p.mb-0 Verificación de preparativos: preparar todos los elementos a usar para el momento del acercamiento con el cliente.
-                p.mb-0 Entrevista efectiva y vendedora para detectar la tipología de cliente.
-                p.mb-0 Necesidades establecidas previamente planteando preguntas para buscar las necesidades del cliente.
-                p.mb-0 Tarea de demostración del producto mostrando las características y señalando los beneficios.
-                p.mb-0 Acción de negociación buscando un pacto rápido y seguro.
-                p Satisfacción total y posventa consiguiendo la satisfacción del cliente y buen resultado. 
+                p.mb-0 #[b V]erificación de preparativos: preparar todos los elementos a usar para el momento del acercamiento con el cliente.
+                p.mb-0 #[b E]ntrevista efectiva y vendedora para detectar la tipología de cliente.
+                p.mb-0 #[b N]ecesidades establecidas previamente planteando preguntas para buscar las necesidades del cliente.
+                p.mb-0 #[b T]area de demostración del producto mostrando las características y señalando los beneficios.
+                p.mb-0 #[b A]cción de negociación buscando un pacto rápido y seguro.
+                p #[b S]atisfacción total y posventa consiguiendo la satisfacción del cliente y buen resultado. 
 
       separador
       #t_6_2.titulo-segundo.mb-5

@@ -119,7 +119,7 @@ export default {
         {
           id: 5,
           texto:
-            'Es el portafolio de servicios un brochure donde se encuentran los servicios que presta un establecimiento de alojamiento y hospedaje',
+            'Es el portafolio de servicios un <i>brochure</i> donde se encuentran los servicios que presta un establecimiento de alojamiento y hospedaje',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

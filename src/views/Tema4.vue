@@ -95,10 +95,10 @@
         LineaTiempoD.color-acento-contenido
           .row.justify-content-center.align-items-center(numero="1" titulo="Saludar")
             .col-lg-12
-              p Saludar y dar la bienvenida acompañada con una sonrisa y con un saludo formal de buenos días/buenas tardes/buenas noches/bienvenido al establecimiento (se nombra el establecimiento), y se le indica al cliente el nombre de la persona quien lo está atendiendo. 
+              p Saludar y dar la bienvenida acompañada con una sonrisa y con un saludo formal de buenos días / buenas tardes / buenas noches / bienvenido al establecimiento (se nombra el establecimiento), y se le indica al cliente el nombre de la persona quien lo está atendiendo. 
           .row.justify-content-center.align-items-center(numero="2" titulo="Ofrecer ayuda")
             .col-lg-12
-              p Se ofrece ayuda al cliente, preguntando: ¿En qué puedo asistirle?.
+              p Se ofrece ayuda al cliente, preguntando: ¿En qué puedo asistirle?
           .row.justify-content-center.align-items-center(numero="3" titulo="Escucha activa")
             .col-lg-12
               p Tener una escucha activa y una comunicación clara con el cliente.

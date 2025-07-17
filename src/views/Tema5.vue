@@ -250,7 +250,7 @@
             .col-12.col-lg-10
               br
               h2.text-center Si son de nacionalidad colombiana
-          p.mb-5 Son la cédula de ciudadanía para mayores de 18 años, si son menores de edad tarjeta de identidad o registro civil de nacimiento. 
+          p.mb-5 Son la cédula de ciudadanía para mayores de 18 años, si son menores de edad, tarjeta de identidad o registro civil de nacimiento. 
         
         .col-md.tarjeta.bgder.p-5
           .row.justify-content-center.align-items-center.mb-0
@@ -293,7 +293,7 @@
         .col-lg-7(data-aos="fade-left")
           .row.p-4
             .col-lg-8
-              h4.bg14.p-1 “PILAS AL ALOJAR”
+              h4.bg14.p-1 “Pilas al alojar”
             .col-lg-12 
               p.mb-4(data-aos="fade-left") Los casos más frecuentes de errores cometidos a la hora de registrar en la plataforma SIRE a un huésped extranjero son: no hacerlo dentro de la primera hora de su llegada, no buscar la nacionalidad del cliente en la plataforma, no llenar todos los espacios, no preguntar ni registrar procedencia y destino, realizar solo la entrada al establecimiento y no anotar la salida, cargar únicamente a la persona que hizo la reservación o que se encargó del pago de la cuenta. 
 
@@ -301,7 +301,7 @@
     #t_5_5.titulo-segundo.mb-5
       h2 5.5 Técnicas de validación de datos  
 
-    p.mb-4 Solicitar todos los datos del turista al momento del registro en el establecimiento de alojamiento o vivienda turística de acuerdo con la obligación que existe desde la Ley 300 de 1996 sobre la Tarjeta de Registro Hotelero, posteriormente Tarjeta de Registro de Alojamiento con la Ley 2068 de 2020. 
+    p.mb-4 Solicitar todos los datos del turista al momento del registro en el establecimiento de alojamiento o vivienda turística, de acuerdo con la obligación que existe desde la Ley 300 de 1996 sobre la Tarjeta de Registro Hotelero, posteriormente Tarjeta de Registro de Alojamiento con la Ley 2068 de 2020. 
 
 
     .tarjeta.fondoslyder.p-4.mb-4
@@ -353,7 +353,7 @@
                 p.mb-0 Matrícula mercantil.
               li.d-flex.mb-0
                 i.fas.fa-circle-check
-                p.mb-0 Registro nacional de turismo (RNT).
+                p.mb-0 Registro Nacional de Turismo (RNT).
               li.d-flex.mb-0
                 i.fas.fa-circle-check
                 p.mb-0 Operador del alojamiento.
@@ -404,7 +404,7 @@
             figure
               img(src='@/assets/curso/Tema5/img20.png', alt='')
 
-    p.mb-4 De acuerdo con el código de prevención y denuncia de la Explotación Sexual Comercial de Niños, Niñas y Adolescentes (ESCNNA), para realizar una reserva a un menor de edad con su familia o tutor se requiere validar la siguiente información:
+    p.mb-4 De acuerdo con el código de prevención y denuncia de la Explotación Sexual Comercial de Niños, Niñas y Adolescentes (ESCNNA), para realizar una reserva a un menor de edad con su familia o tutor, se requiere validar la siguiente información:
 
     .row.justify-content-center.mb-5
       .col-lg-4.d-none.d-lg-block
@@ -426,7 +426,7 @@
         ul.lista-ul--color.bg23.p-3.mb-4
           li.d-flex.mb-0
             i.fas.fa-circle-check
-            p.mb-0 En los hoteles que tienen servicio de piscina, restaurante y spa, entre otros servicios, para personas que no están alojadas y van con niñas, niños o adolescentes es necesario que se exijan los mismos requisitos para demostrar el parentesco.
+            p.mb-0 En los hoteles que tienen servicio de piscina, restaurante y spa, entre otros servicios, para personas que no están alojadas y van con niñas, niños o adolescentes, es necesario que se exijan los mismos requisitos para demostrar el parentesco.
     
     
     

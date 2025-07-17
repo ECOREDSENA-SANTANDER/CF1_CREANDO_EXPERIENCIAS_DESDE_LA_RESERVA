@@ -327,7 +327,7 @@ export default {
     {
       termino: 'Senderismo',
       significado:
-        'Es una caminata que se realiza es espacios naturales y en terrenos irregulares. ',
+        'Es una caminata que se realiza en espacios naturales y en terrenos irregulares. ',
     },
     {
       termino: 'Servicio de botones',
@@ -359,7 +359,7 @@ export default {
       referencia:
         'Barajas, A. (2023). Hospedar o contratar extranjeros tiene sus normas. Vivir En el Poblado. ',
       link:
-        'https://vivirenelpoblado.com/hospedar-o-contratar-extranjeros-tiene-sus-normas/   ',
+        'https://vivirenelpoblado.com/hospedar-o-contratar-extranjeros-tiene-sus-normas/',
     },
     {
       referencia: 'Ceupe. (2024). Atención al cliente en la empresa hotelera. ',
