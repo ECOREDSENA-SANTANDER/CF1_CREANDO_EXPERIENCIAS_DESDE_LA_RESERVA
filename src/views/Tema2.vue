@@ -20,8 +20,8 @@
        .col-lg-10  
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/XKKOWiQQVoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: Establecimientos de alojamiento y hospedaje.
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/eIWawvhzjH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video: Establecimiento de alojamiento y hospedajes.
 
     separador
     #t_2_1.titulo-segundo.mb-5
