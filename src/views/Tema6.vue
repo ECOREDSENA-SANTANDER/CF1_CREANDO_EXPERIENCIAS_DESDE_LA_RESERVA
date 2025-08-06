@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-9
-        p En el sector hotelero las ventas, no son exclusividad de unos pocos funcionarios, es responsabilidad de todos los empleados de la organización, cada uno ejerce influencia sobre los clientes, por lo tanto, la disposición a prestar un excelente servicio debe ser una estrategia permanente.  
+        p En el sector hotelero las ventas no son exclusividad de unos pocos funcionarios, es responsabilidad de todos los empleados de la organización, cada uno ejerce influencia sobre los clientes, por lo tanto, la disposición a prestar un excelente servicio debe ser una estrategia permanente.  
         .row.justify-content-center.align-items-center
           .col-lg-12
             .bg12.mb-5
@@ -53,7 +53,7 @@
       #t_6_1.titulo-segundo.mb-5
         h2 6.1 Técnicas
 
-      p La comunicación es el elemento fundamental dentro de las técnicas de ventas se da presencial y no presencial (telefónicamente o escrita): 
+      p La comunicación es el elemento fundamental dentro de las técnicas de ventas, se da presencial y no presencial (telefónicamente o escrita): 
       p.mb-5 En la venta se repiten las fases de la negociación desde la planificación del producto o servicio a ofrecer, acercamiento o presentación del producto o servicio, argumentación del ofrecimiento y/o manejo de las objeciones y cierre. Dentro de algunas técnicas podemos mencionar:
 
       .row.justify-content-center.mb-5(data-aos="fade-right")

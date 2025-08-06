@@ -357,7 +357,6 @@
                 .col-md-10.col-lg-6.mb-md-0
                   br
                   h4 Servicios adicionales 
-                  p Esta área está encargada del lavado, desinfección y mantenimiento de la lencería del hotel como sabanas, fundas de almohadas, toallas y otros textiles utilizados en las habitaciones y áreas comunes del hotel. Ofrece el servicio de lavandería para huéspedes lavado y planchado. 
                   ul.lista-ul--color
                     li.d-flex.mb-0
                       i.fas.fa-circle-check
