@@ -241,7 +241,7 @@ export default {
         'Grupo técnico de turismo de la Alianza del Pacifico. (2017). Terminología y vocabulario del sector hotelero en los países de la alianza del pacífico.',
       tipo: 'PDF',
       link:
-        'https://alianzapacifico.net/assets/gallery/Terminologia-y-Metodologia-para-la-Homologacion-Version-Final.pdf',
+        'https://alianzapacifico.net/wp-content/uploads/Terminologia-y-Metodologia-para-la-Homologacion-Version-Final.pdf',
     },
     {
       tema: 'Servicio al cliente.',
