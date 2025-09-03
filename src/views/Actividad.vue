@@ -23,8 +23,8 @@ export default {
       introduccion:
         '<b> Objetivo: </b>evaluar la comprensión de los conceptos fundamentales en el  buen desempeño de las actividades dentro del área de reservas. ',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       preguntas: [
         {
           id: 1,
